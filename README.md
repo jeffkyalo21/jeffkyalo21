@@ -41,8 +41,8 @@ I am a software engineering student and Technical Lead in the AWS Student Builde
 
 ## Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com (replace with your real link)
-- 📧 Email: yourname@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jeff-kyalo-5811b8357/
+- 📧 Email: jjkyali5@email.com
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />

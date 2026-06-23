@@ -4,12 +4,11 @@
 
 # Hi there, I'm Jeff Kyalo 👋
 
-I am a software engineering student passionate about building scalable web applications, IoT systems, and automation solutions. I enjoy turning ideas into practical, real-world systems through clean and efficient code.
+I am a software engineering student and Technical Lead in the AWS Student Builders program, passionate about cloud computing, scalable system design, and full-stack development. I focus on building and leading projects that leverage modern cloud technologies to solve real-world problems.
 
-- 🔭 **Current Focus:** Full-stack web development and IoT-based smart systems  
-- 🌱 **Learning & Exploration:** Next.js, Django, cloud computing, and system architecture  
-- ⚡ **Core Interests:** Embedded systems, web development, and automation  
-
+- 🔭 **Current Focus:** Leading AWS Student Builders initiatives, cloud-based applications, and full-stack development
+- 🌱 **Learning & Exploration:** AWS architecture (EC2, S3, Lambda), system design, and backend engineering
+- ⚡ **Core Interests:** Cloud computing, distributed systems, and scalable web applications
 ---
 
 ## Technical Ecosystem

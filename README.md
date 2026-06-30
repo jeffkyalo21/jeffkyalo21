@@ -27,10 +27,11 @@ I am a software engineering student and Technical Lead in the AWS Student Builde
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeffkyalo21&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffkyalo21&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jeffkyalo21&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeffkyalo21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
